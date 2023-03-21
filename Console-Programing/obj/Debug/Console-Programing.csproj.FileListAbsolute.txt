@@ -1,0 +1,7 @@
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Console-Programing\bin\Debug\Console-Programing.exe.config
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Console-Programing\bin\Debug\Console-Programing.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Console-Programing\bin\Debug\Console-Programing.pdb
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Console-Programing\obj\Debug\Console-Programing.csproj.AssemblyReference.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Console-Programing\obj\Debug\Console-Programing.csproj.CoreCompileInputs.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Console-Programing\obj\Debug\Console-Programing.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Console-Programing\obj\Debug\Console-Programing.pdb
