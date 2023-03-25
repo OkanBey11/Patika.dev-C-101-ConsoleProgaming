@@ -1,2 +1,2 @@
-# Patika.dev-C-101-ConsoleProgaming
-C#101 görevi için yaptığım console coding çalışması
+# Patika.dev-C# 101 Adımları
+C#101 görevi için yaptığım Çalışmalar
