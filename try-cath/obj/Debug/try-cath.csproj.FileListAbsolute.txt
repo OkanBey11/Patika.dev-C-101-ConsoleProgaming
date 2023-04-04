@@ -1,0 +1,7 @@
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\try-cath\try-cath\bin\Debug\try-cath.exe.config
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\try-cath\try-cath\bin\Debug\try-cath.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\try-cath\try-cath\bin\Debug\try-cath.pdb
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\try-cath\try-cath\obj\Debug\try-cath.csproj.AssemblyReference.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\try-cath\try-cath\obj\Debug\try-cath.csproj.CoreCompileInputs.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\try-cath\try-cath\obj\Debug\try-cath.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\try-cath\try-cath\obj\Debug\try-cath.pdb
