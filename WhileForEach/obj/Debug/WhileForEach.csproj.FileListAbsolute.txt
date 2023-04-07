@@ -1,0 +1,7 @@
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\WhileForEach\WhileForEach\bin\Debug\WhileForEach.exe.config
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\WhileForEach\WhileForEach\bin\Debug\WhileForEach.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\WhileForEach\WhileForEach\bin\Debug\WhileForEach.pdb
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\WhileForEach\WhileForEach\obj\Debug\WhileForEach.csproj.AssemblyReference.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\WhileForEach\WhileForEach\obj\Debug\WhileForEach.csproj.CoreCompileInputs.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\WhileForEach\WhileForEach\obj\Debug\WhileForEach.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\WhileForEach\WhileForEach\obj\Debug\WhileForEach.pdb
