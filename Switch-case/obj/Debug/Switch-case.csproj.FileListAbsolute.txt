@@ -1,0 +1,7 @@
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Switch-case\Switch-case\bin\Debug\Switch-case.exe.config
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Switch-case\Switch-case\bin\Debug\Switch-case.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Switch-case\Switch-case\bin\Debug\Switch-case.pdb
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Switch-case\Switch-case\obj\Debug\Switch-case.csproj.AssemblyReference.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Switch-case\Switch-case\obj\Debug\Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Switch-case\Switch-case\obj\Debug\Switch-case.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Switch-case\Switch-case\obj\Debug\Switch-case.pdb
