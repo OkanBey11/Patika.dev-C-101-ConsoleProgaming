@@ -1,0 +1,7 @@
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Diziler2\Diziler2\bin\Debug\Diziler2.exe.config
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Diziler2\Diziler2\bin\Debug\Diziler2.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Diziler2\Diziler2\bin\Debug\Diziler2.pdb
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Diziler2\Diziler2\obj\Debug\Diziler2.csproj.AssemblyReference.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Diziler2\Diziler2\obj\Debug\Diziler2.csproj.CoreCompileInputs.cache
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Diziler2\Diziler2\obj\Debug\Diziler2.exe
+C:\Users\okangztk\Desktop\non_visible_desktop\Diger-platform\Patika\C#101\Console-Programing\Diziler2\Diziler2\obj\Debug\Diziler2.pdb
