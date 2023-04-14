@@ -1,0 +1,8 @@
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\String_methods\String_methods\bin\Debug\String_methods.exe.config
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\String_methods\String_methods\bin\Debug\String_methods.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\String_methods\String_methods\bin\Debug\String_methods.pdb
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\String_methods\String_methods\obj\Debug\String_methods.csproj.AssemblyReference.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\String_methods\String_methods\obj\Debug\String_methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\String_methods\String_methods\obj\Debug\String_methods.csproj.CoreCompileInputs.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\String_methods\String_methods\obj\Debug\String_methods.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\String_methods\String_methods\obj\Debug\String_methods.pdb
