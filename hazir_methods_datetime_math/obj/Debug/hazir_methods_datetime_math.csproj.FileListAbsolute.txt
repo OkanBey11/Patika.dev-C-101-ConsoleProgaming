@@ -1,0 +1,8 @@
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\hazir_methods_datetime_math\hazir_methods_datetime_math\bin\Debug\hazir_methods_datetime_math.exe.config
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\hazir_methods_datetime_math\hazir_methods_datetime_math\bin\Debug\hazir_methods_datetime_math.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\hazir_methods_datetime_math\hazir_methods_datetime_math\bin\Debug\hazir_methods_datetime_math.pdb
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\hazir_methods_datetime_math\hazir_methods_datetime_math\obj\Debug\hazir_methods_datetime_math.csproj.AssemblyReference.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\hazir_methods_datetime_math\hazir_methods_datetime_math\obj\Debug\hazir_methods_datetime_math.csproj.SuggestedBindingRedirects.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\hazir_methods_datetime_math\hazir_methods_datetime_math\obj\Debug\hazir_methods_datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\hazir_methods_datetime_math\hazir_methods_datetime_math\obj\Debug\hazir_methods_datetime_math.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\hazir_methods_datetime_math\hazir_methods_datetime_math\obj\Debug\hazir_methods_datetime_math.pdb
