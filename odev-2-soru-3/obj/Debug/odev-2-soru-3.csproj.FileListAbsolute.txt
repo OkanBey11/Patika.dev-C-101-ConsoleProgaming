@@ -1,0 +1,8 @@
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\odev-2-soru-3\odev-2-soru-3\bin\Debug\odev-2-soru-3.exe.config
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\odev-2-soru-3\odev-2-soru-3\bin\Debug\odev-2-soru-3.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\odev-2-soru-3\odev-2-soru-3\bin\Debug\odev-2-soru-3.pdb
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\odev-2-soru-3\odev-2-soru-3\obj\Debug\odev-2-soru-3.csproj.AssemblyReference.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\odev-2-soru-3\odev-2-soru-3\obj\Debug\odev-2-soru-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\odev-2-soru-3\odev-2-soru-3\obj\Debug\odev-2-soru-3.csproj.CoreCompileInputs.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\odev-2-soru-3\odev-2-soru-3\obj\Debug\odev-2-soru-3.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\odev-2-soru-3\odev-2-soru-3\obj\Debug\odev-2-soru-3.pdb
