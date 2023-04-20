@@ -1,0 +1,8 @@
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\encapsulation\encapsulation\bin\Debug\encapsulation.exe.config
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\encapsulation\encapsulation\bin\Debug\encapsulation.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\encapsulation\encapsulation\bin\Debug\encapsulation.pdb
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.AssemblyReference.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\encapsulation\encapsulation\obj\Debug\encapsulation.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\encapsulation\encapsulation\obj\Debug\encapsulation.pdb
