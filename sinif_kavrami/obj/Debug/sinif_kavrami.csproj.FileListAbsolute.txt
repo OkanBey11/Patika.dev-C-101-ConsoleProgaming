@@ -1,0 +1,8 @@
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\sinif_kavrami\sinif_kavrami\bin\Debug\sinif_kavrami.exe.config
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\sinif_kavrami\sinif_kavrami\bin\Debug\sinif_kavrami.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\sinif_kavrami\sinif_kavrami\bin\Debug\sinif_kavrami.pdb
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\sinif_kavrami\sinif_kavrami\obj\Debug\sinif_kavrami.csproj.AssemblyReference.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\sinif_kavrami\sinif_kavrami\obj\Debug\sinif_kavrami.csproj.SuggestedBindingRedirects.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\sinif_kavrami\sinif_kavrami\obj\Debug\sinif_kavrami.csproj.CoreCompileInputs.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\sinif_kavrami\sinif_kavrami\obj\Debug\sinif_kavrami.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\sinif_kavrami\sinif_kavrami\obj\Debug\sinif_kavrami.pdb
