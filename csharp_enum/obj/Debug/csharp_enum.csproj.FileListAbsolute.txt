@@ -1,0 +1,8 @@
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\csharp_enum\csharp_enum\bin\Debug\csharp_enum.exe.config
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\csharp_enum\csharp_enum\bin\Debug\csharp_enum.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\csharp_enum\csharp_enum\bin\Debug\csharp_enum.pdb
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\csharp_enum\csharp_enum\obj\Debug\csharp_enum.csproj.AssemblyReference.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\csharp_enum\csharp_enum\obj\Debug\csharp_enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\csharp_enum\csharp_enum\obj\Debug\csharp_enum.csproj.CoreCompileInputs.cache
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\csharp_enum\csharp_enum\obj\Debug\csharp_enum.exe
+C:\Users\okang\Desktop\Tasindik\Diger-platform\Patika\C#101\csharp_enum\csharp_enum\obj\Debug\csharp_enum.pdb
